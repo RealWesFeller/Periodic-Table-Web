@@ -1,0 +1,50 @@
+/* v0.1 */
+/* BEM Style Convention 
+		Block: block-name
+		Element: block-name__element-name
+		Modifier: 
+			Case 01) block-name__modifier-name
+			Case 02) block-name__element-name__modifier-name
+*/
+
+/* Blocks */
+
+/* Color Variables */
+:root {
+	--theme1-primary-color: orange;
+	--theme1-secondary-color: teal;
+	--theme2-primary-color: navy;
+	--theme2-secondary-color: blue;
+	
+	--angle: 45deg;
+	--opacity: 0.5;
+	
+	--legend-color-alkali: #FF0054;
+	--legend-color-alkaline: #FF0000;
+	--legend-color-transition: #FFA500;
+	--legend-color-post-transition: #FFFF00;
+	--legend-color-metalloid: #00FF00;
+	--legend-color-non-metal: #008000;
+	--legend-color-halogen: #0000FF;
+	--legend-color-noble-gas: #008080;
+	--legend-color-lanthanide: #4B0082;
+	--legend-color-actinide: #EE82EE;
+}
+
+
+
+
+
+
+
+/* Elements */
+
+
+
+
+
+
+
+
+
+/* Modifiers */
